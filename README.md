@@ -113,7 +113,8 @@ git push
 ```
 
 ---
-
+![Git Cheat Sheet](Git-Cheat-Sheet.png)
+---
 ## Credits
 
 - **Github:** [Link](https://docs.github.com/en)
