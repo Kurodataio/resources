@@ -116,7 +116,8 @@ git push
 
 ## Credits
 
-- **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
+- **Github:** [Link](https://docs.github.com/en)
+- **CoPilot:** [Link](https://copilot.microsoft.com)    
 - **Dataset Source:** [Link](https://link-to-dataset.com)  
 - **Tutorials / References:** [Link](https://link.com)  
 
