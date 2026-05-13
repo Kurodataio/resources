@@ -6,7 +6,7 @@ Online resources for quick access
 ## Table of Contents
 
 - [GitHub](#github)  
-- [GitHub CLI Cheat Sheet](#dataset)  
+- [GitHub CLI Cheat Sheet](#github-cli-cheat-sheet)  
 - [Credits](#credits)  
 - [License](#license)  
 
