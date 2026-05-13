@@ -6,7 +6,7 @@ Online resources for quick access
 ## Table of Contents
 
 - [GitHub](#github)  
-- [Dataset](#dataset)  
+- [GitHub CLI Cheat Sheet](#dataset)  
 - [Credits](#credits)  
 - [License](#license)  
 
@@ -15,11 +15,12 @@ Online resources for quick access
 ## Github
 
 - **Daily Git Commands**
+```
     git status
     git add .
     git commit -m "message" 
     git push
-
+```
 - **Create a Branch** 
 ```
     git checkout -b feature/branch
@@ -49,7 +50,71 @@ Online resources for quick access
     gh issue list
 ```
 
+- **Approve a PR** 
+```
+    gh pr review 123 --approve
+```
 
+- **Comment on a PR** 
+```
+    gh pr review 123 --comment --body "Looks good!"
+```
+
+- **Request Changes** 
+```
+    gh pr review 123 --request-changes --body "Please fix this."
+```
+
+<!-- - **??? Issues** 
+```
+    git ???
+```
+
+- **??? Issues** 
+```
+    git ???
+``` -->
+
+---
+## GitHub CLI Cheat Sheet
+
+### 🟦 **Branches**
+```powershell
+git checkout -b feature/x
+git push -u origin feature/x
+```
+
+### 🟩 **Pull Requests**
+```powershell
+gh pr create -t "Title" -b "Body"
+gh pr list
+gh pr checkout <id>
+```
+
+### 🟧 **Issues**
+```powershell
+gh issue create -t "Title" -b "Body"
+gh issue list
+```
+
+### 🟪 **Reviews**
+```powershell
+gh pr review <id> --approve
+gh pr review <id> --comment -b "Note"
+gh pr review <id> --request-changes -b "Fix this"
+```
+
+### 🟫 **Core Git**
+```powershell
+git status
+git add .
+git commit -m "msg"
+git push
+```
+
+---
+
+If you want, I can turn this into a **single-line ultra‑minimal version** you can paste at the top of your terminal.
 ---
 
 ## Credits
