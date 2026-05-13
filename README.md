@@ -21,42 +21,33 @@ Online resources for quick access
     git push
 
 - **Create a Branch** 
-    git checkout -b feature/branch
-
-- **Push a Branch** 
-    git push -u origin feature/branch
-
-- **Pull Requests** 
-    gh pr create --title "My Feature" --body "Description"
-
-- **List PRs** 
-    gh pr list
-
-- **Check Out a PR** 
-    gh pr checkout 123
-
-- **Create Issues** 
-    gh issue create --title "Bug: Something broke" --body "Details..."
-
-- **List Issues** 
-    gh issue list
-
-
-
----
-
-
 ```
-
-## Usage
-
-Instructions for using the project:
-
-1. Open the main notebook (`analysis.ipynb`)  
-2. Run each cell sequentially to reproduce the analysis  
-3. Visualizations and results will be generated automatically  
-
-Include screenshots of your visualizations if available:  
+    git checkout -b feature/branch
+```
+- **Push a Branch** 
+```
+    git push -u origin feature/branch
+```
+- **Pull Requests** 
+```
+    gh pr create --title "My Feature" --body "Description"
+```
+- **List PRs** 
+```
+    gh pr list
+```
+- **Check Out a PR** 
+```
+    gh pr checkout 123
+```
+- **Create Issues**
+```
+    gh issue create --title "Bug: Something broke" --body "Details..."
+```
+- **List Issues** 
+```
+    gh issue list
+```
 
 
 ---
