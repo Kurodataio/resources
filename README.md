@@ -7,7 +7,8 @@ Online resources for quick access
 
 - [GitHub](#github)  
 - [GitHub CLI Cheat Sheet](#github-cli-cheat-sheet) 
-- [Power BI](#power-bi)  
+- [Power BI](#power-bi)
+- [Tableau](#tableau)  
 - [Credits](#credits)  
 - [License](#license)  
 
