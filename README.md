@@ -114,9 +114,6 @@ git push
 
 ---
 
-If you want, I can turn this into a **single-line ultra‑minimal version** you can paste at the top of your terminal.
----
-
 ## Credits
 
 - **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
