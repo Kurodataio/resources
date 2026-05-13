@@ -6,7 +6,8 @@ Online resources for quick access
 ## Table of Contents
 
 - [GitHub](#github)  
-- [GitHub CLI Cheat Sheet](#github-cli-cheat-sheet)  
+- [GitHub CLI Cheat Sheet](#github-cli-cheat-sheet) 
+- [Power BI](#power-bi)  
 - [Credits](#credits)  
 - [License](#license)  
 
@@ -115,10 +116,16 @@ git push
 ---
 ![Git Cheat Sheet](Git-Cheat-Sheet.png)
 ---
+
+## Power BI
+
+---
 ## Credits
 
 - **Github:** [Link](https://docs.github.com/en)
-- **CoPilot:** [Link](https://copilot.microsoft.com)    
+- **CoPilot:** [Link](https://copilot.microsoft.com)   
+- **JRebel:** [Link](https://www.jrebel.com/blog/git-cheat-sheet)   
+
 - **Dataset Source:** [Link](https://link-to-dataset.com)  
 - **Tutorials / References:** [Link](https://link.com)  
 
