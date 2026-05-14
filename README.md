@@ -67,6 +67,23 @@ Online resources for quick access
     gh pr review 123 --request-changes --body "Please fix this."
 ```
 
+- **Merge main into your branch** 
+```
+    git merge main
+
+```
+- **Git branch status** 
+```
+    git status
+
+```
+
+- **Check the GitHub remote** 
+```
+    git remote -v
+
+```
+
 <!-- - **??? Issues** 
 ```
     git ???
