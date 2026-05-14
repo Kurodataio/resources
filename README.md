@@ -142,7 +142,7 @@ git push
 ## Tableau
 Tableau shortcuts and notes
 
-![Tableau Cheatsheet](Tableau-Cheat-Sheet.pdf)
+[Tableau Cheatsheet](Tableau-Cheat-Sheet.pdf)
 
 ---
 ## Credits
