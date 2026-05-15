@@ -159,6 +159,7 @@ Tableau shortcuts and notes
 ## Credits
 
 - **Git:** [Link](https://git-scm.com/)
+- **Git Pro eBook:** [Link](https://git-scm.com/book/en/v2)
 - **Github:** [Link](https://docs.github.com/en)
 - **CoPilot:** [Link](https://copilot.microsoft.com)   
 - **JRebel:** [Link](https://www.jrebel.com/blog/git-cheat-sheet)   
