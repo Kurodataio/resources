@@ -39,7 +39,7 @@ Online resources for quick access
 - **Push a Branch** 
 ```
     git push -u origin <feature/branch>
-    
+
     git push -u origin <new-branch>
 ```
 - **Pull Requests** 
@@ -158,6 +158,7 @@ Tableau shortcuts and notes
 ---
 ## Credits
 
+- **Git:** [Link](https://git-scm.com/)
 - **Github:** [Link](https://docs.github.com/en)
 - **CoPilot:** [Link](https://copilot.microsoft.com)   
 - **JRebel:** [Link](https://www.jrebel.com/blog/git-cheat-sheet)   
