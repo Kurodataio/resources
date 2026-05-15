@@ -25,11 +25,22 @@ Online resources for quick access
 ```
 - **Create a Branch** 
 ```
-    git checkout -b feature/branch
+    git checkout -b <feature/branch>
+
+    git checkout -b <new-branch>
 ```
+- **Switch to Branch** 
+```
+    git switch <feature/branch>
+
+    git switch <new-branch>
+```
+
 - **Push a Branch** 
 ```
-    git push -u origin feature/branch
+    git push -u origin <feature/branch>
+    
+    git push -u origin <new-branch>
 ```
 - **Pull Requests** 
 ```
