@@ -158,13 +158,13 @@ Tableau shortcuts and notes
 ---
 ## Credits
 
-- **Git:** [Link](https://git-scm.com/)
-- **Github:** [Link](https://docs.github.com/en)
+- **Gi Docs:** [Link](https://git-scm.com/)
+- **Github Docs:** [Link](https://docs.github.com/en)
 - **CoPilot:** [Link](https://copilot.microsoft.com)   
 - **JRebel:** [Link](https://www.jrebel.com/blog/git-cheat-sheet)   
 
-- **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
+<!-- - **Dataset Source:** [Link](https://link-to-dataset.com)  
+- **Tutorials / References:** [Link](https://link.com)   -->
 
 ---
 
