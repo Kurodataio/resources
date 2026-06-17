@@ -162,6 +162,7 @@ Tableau shortcuts and notes
 ## Credits
 
 - **Git:** [Link](https://git-scm.com/)
+- **w3schools-Git** [Link](https://www.w3schools.com/git/default.asp)
 - **Git Pro eBook:** [Link](https://git-scm.com/book/en/v2)
 - **Github:** [Link](https://docs.github.com/en)
 - **CoPilot:** [Link](https://copilot.microsoft.com)   
