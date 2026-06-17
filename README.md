@@ -22,6 +22,9 @@ Online resources for quick access
     git add .
     git commit -m "message" 
     git push
+    
+    git pull origin
+
 ```
 - **Create a Branch** 
 ```
