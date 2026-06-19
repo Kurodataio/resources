@@ -158,6 +158,9 @@ Tableau shortcuts and notes
 
 [Tableau Cheatsheet](Tableau-Cheat-Sheet.pdf)
 
+## The Data Visualization
+[The Data Visualization Cheat Sheett](Data-Visualizations+-DataCamp.pdf)
+
 ---
 ## Credits
 
